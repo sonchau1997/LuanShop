@@ -1,0 +1,5 @@
+@media only screen and (max-with:740px) {
+    .content {
+        flex-direction: column-reverse;
+    }
+}
